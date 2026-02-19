@@ -1,0 +1,413 @@
+🔷 PROJECT OVERVIEW
+
+Create a premium, modern, high-end agency website for:
+
+A.D.I.S – Advanced Digital IT Solutions
+
+This is a creative IT and digital solutions company offering:
+
+Web Development
+
+App Development
+
+IT Consulting
+
+Cloud Solutions
+
+Cybersecurity
+
+UI/UX Design
+
+Branding & Digital Strategy
+
+The website must feel like a $15,000+ professional agency website — clean, powerful, modern, corporate but creative.
+
+🎨 DESIGN STYLE REQUIREMENTS
+Overall Style:
+
+Premium
+
+Clean
+
+Corporate-tech
+
+Modern SaaS agency
+
+Subtle futuristic feel
+
+Minimal but bold
+
+Confident typography
+
+High-end spacing
+
+Color Theme:
+
+Primary: Deep navy / dark blue
+Accent: Electric blue or cyan
+Background: Gradient dark mode with soft glowing highlights
+Secondary accent: Subtle purple glow
+
+Must Include:
+
+Curved hero header (wave or smooth SVG curve)
+
+Subtle animated floating icons in hero section
+
+Creative IT background lines (glowing tech lines)
+
+Glassmorphism cards (slight blur + glow)
+
+Smooth hover animations
+
+Smooth scroll transitions
+
+Subtle parallax effect
+
+Dark mode enabled on ALL pages consistently
+
+Modern shadows and depth
+
+Clean section spacing
+
+🏠 HOMEPAGE STRUCTURE
+1️⃣ Header / Navigation
+
+Transparent navbar over hero
+
+Logo on left
+
+Links: Home, About, Services, Contact
+
+Login & Signup buttons styled premium
+
+Sticky on scroll
+
+Smooth hover underline effect
+
+2️⃣ Hero Section (Curved Design)
+
+Layout:
+
+Left: Text
+
+Right: IT Illustration (creative tech graphic)
+
+Include:
+
+Large bold headline:
+“We Build Future-Ready Digital Experiences”
+
+Subheadline paragraph
+
+Two CTA buttons:
+
+Get Started
+
+View Services
+
+Add:
+
+Subtle floating IT icons animation
+
+Background tech lines
+
+Glow accents
+
+3️⃣ Why Choose Us (Premium Section)
+
+Add:
+
+4–6 premium cards with icons
+
+Glassmorphism design
+
+Hover lift effect
+
+Content ideas:
+
+Proven Expertise
+
+Innovative Solutions
+
+Client-Centric Approach
+
+Secure & Scalable Systems
+
+24/7 Technical Support
+
+Industry Best Practices
+
+4️⃣ Services Preview Section
+
+Modern card layout:
+
+Icon at top
+
+Title
+
+Description
+
+Hover animation
+
+Glow border on hover
+
+5️⃣ Trust Badges Section
+
+Include:
+
+Secure Systems
+
+GDPR Compliant
+
+99.9% Uptime
+
+ISO Certified
+
+Trusted by 200+ Clients
+
+Display as professional badge-style layout.
+
+6️⃣ Creative IT Graphic Section
+
+Include:
+
+Animated tech lines
+
+Subtle glowing circles
+
+Background grid effect
+
+Floating shapes
+
+Make it visible on desktop and mobile.
+
+7️⃣ Testimonials Section
+
+Add:
+
+3–5 testimonials
+
+Star rating icons
+
+Client names
+
+Company name
+
+Card layout with slight glass effect
+
+8️⃣ Call To Action Section
+
+Large centered section:
+“Ready to Transform Your Digital Presence?”
+
+Button:
+
+Schedule Consultation
+
+9️⃣ Footer
+
+Include:
+
+Logo
+
+Short description
+
+Quick links
+
+Services links
+
+Contact info
+
+Social icons
+
+Copyright
+
+📄 ABOUT PAGE STRUCTURE
+
+Same header + curved hero style as homepage
+
+Maintain exact layout consistency
+
+Sections:
+
+Company Story
+
+Mission & Vision
+
+Core Values
+
+Meet the Team (professional card layout)
+
+Technology Stack Section
+
+Statistics section (animated counters)
+
+Projects completed
+
+Clients served
+
+Years experience
+
+Satisfaction rate
+
+🛠 SERVICES PAGE STRUCTURE
+
+Keep same premium layout.
+
+Sections:
+
+Hero header
+
+Detailed service breakdown
+
+Web Development
+
+App Development
+
+IT Consulting
+
+Cybersecurity
+
+Cloud Solutions
+
+Process Section (Step-by-step timeline)
+
+Discovery
+
+Strategy
+
+Design
+
+Development
+
+Deployment
+
+CTA section
+
+Use grid-based premium cards.
+
+📞 CONTACT PAGE STRUCTURE
+
+Keep layout consistent with hero curve.
+
+Include:
+
+Contact form (Name, Email, Subject, Message)
+
+Modern styled input fields
+
+Glass effect form container
+
+Contact information section
+
+Embedded map placeholder
+
+FAQ mini section
+
+Call scheduling button
+
+🔐 LOGIN & SIGNUP (Modern Clean)
+
+Design:
+
+Centered card layout
+
+Right-side IT illustration
+
+Glassmorphism effect
+
+Floating icon animation
+
+Social login buttons
+
+Remember me checkbox
+
+Forgot password link
+
+Smooth focus animations
+
+Modern input styling
+
+Make them look like SaaS dashboard authentication screens.
+
+✨ ADVANCED FEATURES TO INCLUDE
+
+Add professional elements such as:
+
+Smooth scroll animation
+
+Hover micro-interactions
+
+Scroll reveal animations
+
+Section fade-in effects
+
+Animated gradient backgrounds
+
+Clean typography hierarchy
+
+Responsive for all screen sizes
+
+No design differences between pages
+
+Perfect dark mode consistency
+
+Proper spacing and alignment system
+
+Accessible contrast
+
+SEO-friendly structure
+
+Fast loading optimized layout
+
+📱 RESPONSIVENESS REQUIREMENTS
+
+Desktop perfect layout
+
+Tablet optimized
+
+Mobile optimized
+
+All creative graphics visible on desktop and mobile
+
+No elements hidden unless intentional
+
+Cards stack properly on smaller screens
+
+🧠 BRAND VOICE
+
+Tone:
+
+Confident
+
+Professional
+
+Strategic
+
+Innovative
+
+Trustworthy
+
+Forward-thinking
+
+Not:
+
+Casual
+
+Cheap-looking
+
+Overcrowded
+
+Template-style
+
+🎯 GOAL
+
+The final website must:
+
+✔ Look like a real high-end digital agency
+✔ Feel trustworthy and premium
+✔ Impress corporate clients
+✔ Look consistent across all pages
+✔ Have visible creative IT design elements
+✔ Feel modern and future-ready

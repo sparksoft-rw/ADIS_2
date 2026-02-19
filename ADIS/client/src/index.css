@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* HSL Values */
+  --background: 222 47% 11%;     /* Deep Navy #0f172a */
+  --foreground: 210 40% 98%;     /* White-ish */
+  
+  --primary: 199 89% 48%;        /* Electric Blue #0ea5e9 */
+  --primary-foreground: 210 40% 98%;
+  
+  --secondary: 217 33% 17%;      /* Lighter Navy for cards */
+  --secondary-foreground: 210 40% 98%;
+  
+  --muted: 217 33% 25%;
+  --muted-foreground: 215 20% 65%;
+  
+  --accent: 262 83% 58%;         /* Purple Glow Accent */
+  --accent-foreground: 210 40% 98%;
+  
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 210 40% 98%;
+  
+  --border: 217 33% 20%;
+  --input: 217 33% 20%;
+  --ring: 199 89% 48%;
+  
+  --radius: 0.75rem;
+  
+  --font-sans: 'Outfit', sans-serif;
+  --font-display: 'Space Grotesk', sans-serif;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary/30 selection:text-primary-foreground;
+    font-family: var(--font-sans);
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply tracking-tight font-bold;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary via-blue-400 to-accent;
+  }
+  
+  .glass-card {
+    @apply bg-secondary/40 backdrop-blur-md border border-white/5 shadow-xl;
+  }
+  
+  .glass-panel {
+    @apply bg-background/60 backdrop-blur-lg border-b border-white/5;
+  }
+  
+  .glow-effect {
+    @apply relative after:absolute after:inset-0 after:bg-primary/20 after:blur-xl after:rounded-full after:-z-10;
+  }
+
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted));
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--primary));
+}
